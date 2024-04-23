@@ -33,8 +33,8 @@
 </head>
 
 <body>
+    @include('partials.login')
 
-    @include('partials.navbar')
     @yield('container')
 
     <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
@@ -50,11 +50,11 @@
     <script src="{{asset('assets/vendor/swiper/swiper-bundle.min.js') }}"></script>
     <script src="{{asset('assets/vendor/isotope-layout/isotope.pkgd.min.js') }}"></script>
     <script src="{{asset('assets/vendor/php-email-form/validate.js') }}"></script>
+    <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
 
     <!-- Template Main JS File -->
     <script src="assets/js/main.js"></script>
 
 </body>
-@include('partials.footer')
 
 </html>

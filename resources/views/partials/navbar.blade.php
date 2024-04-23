@@ -19,7 +19,7 @@
  <header id="header" class="header d-flex align-items-center">
 
      <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
-         <a href="index.html" class="logo d-flex align-items-center">
+         <a href="/" class="logo d-flex align-items-center">
              <!-- Uncomment the line below if you also wish to use an image logo -->
              <img src="assets/img/logokh.svg" alt="" width="100%">
              <img src="assets/img/kapuashuluhebat.svg" alt="" width="100%">
@@ -32,21 +32,22 @@
                  <li><a href="berita">Berita</a></li>
                  <li class="dropdown"><a href="#"><span>Rencanakan Perjalanan</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                      <ul>
-                         <li><a href="#">Informasi Umum</a></li>
+                         <li><a href="informasiumum">Informasi Umum</a></li>
                          <li><a href="#">#Promosi</a></li>
                      </ul>
                  </li>
                  <li class="dropdown"><a href="#"><span>Menjelajahi</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                      <ul>
                          <li><a href="#">Destinasi Wisata</a></li>
-                         <li><a href="#">Kuliner</a></li>
+                         <li><a href="kuliner">Kuliner</a></li>
                          <li><a href="#">Event</a></li>
-                         <li><a href="#">Travel Agency</a></li>
+                         <li><a href="travelagency">Travel Agency</a></li>
                          <li><a href="#">Akomodasi</a></li>
                      </ul>
                  </li>
                  <li><a href="pemandu">Pemandu Wisata</a></li>
              </ul>
+
          </nav><!-- .navbar -->
 
          <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
