@@ -24,7 +24,7 @@
             <main class="form-signin w-100 m-auto">
                 <div class="row d-flex justify-content-center">
 
-                    <form action="login" method="post">
+                    <form action="/login" method="post">
                         @csrf
                         <div>
                             <style>

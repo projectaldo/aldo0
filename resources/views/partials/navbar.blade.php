@@ -47,7 +47,7 @@
                  </li>
                  <li><a href="pemandu">Pemandu Wisata</a></li>
              </ul>
-
+            
          </nav><!-- .navbar -->
 
          <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>

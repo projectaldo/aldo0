@@ -12,8 +12,11 @@
          </a>
          <nav id="navbar" class="navbar">
              <ul>
+               
                  <li><a href="/">Keluar</a></li>
              </ul>
+             
+            
          </nav><!-- .navbar -->
 
          <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
